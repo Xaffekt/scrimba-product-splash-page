@@ -80,7 +80,7 @@ p {
     min-height: 250px;
     text-align: center;
     color: #fff;
-    background: #9480e4 url("images/background.jpeg");
+    background: #2a3046 url("images/background.jpeg");
     background-size: cover;
     padding-bottom: 1.5em;
 }
@@ -123,7 +123,7 @@ input {
 
 input:focus {
     outline: none;
-    border-color: #8a71ec;
+    border-color: #646c9b;
     background-color: #e6e8ec;
 }
 
@@ -138,7 +138,7 @@ input:focus {
 
 .btn-primary {
     color: white;
-    background-color: #8a71ec;
+    background-color: #646c9b;
     margin-top: 1em;    
 }
 
